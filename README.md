@@ -6,4 +6,4 @@ This project addressed a fictional monitoring challenge set in Jurassic Park. Ou
 
 ## Technology Used: Python Programming Language, Google Slides
 ## Project Code is located in the ipynb file
-## Presentation Slides are located in the pdf file (Download raw file)
+## Presentation Slides are located in the pdf file
