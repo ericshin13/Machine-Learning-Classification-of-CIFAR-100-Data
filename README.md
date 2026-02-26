@@ -6,6 +6,14 @@ Our model was trained using the CIFAR-100 dataset from University of Toronto. Th
 
 **Group Collaborators: Steven Villalon, Natasha Malik, Gabby Salera, Eric Shin**
 
+![Training Data](https://github.com/user-attachments/assets/03213e5e-ca54-41fb-a156-08e862d0ee5b)
+
+![Base Model](https://github.com/user-attachments/assets/8b2b37f3-b854-4b81-9cef-a617e63e659a)
+
+![CNN](https://github.com/user-attachments/assets/3cc3dfd7-ef0b-41e6-8c57-b6263114aaf1)
+
+![Final Modeling Results](https://github.com/user-attachments/assets/8dec2935-1346-448c-baf1-6ca7b674fc92)
+
 ## Technology Used: Python Programming Language, Google Slides
 ## Project Code is located in the ipynb file
 ## Presentation Slides are located in the pdf file
